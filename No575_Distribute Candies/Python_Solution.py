@@ -17,6 +17,7 @@ case 2:
 因为sister could gain the 13 elements, 这13个元素中就可以包括10种kind element
 所以说，result与kind and number of element有关                                                                      
 
+解答:                   
 class Solution:
     def distributeCandies(self, candies):
         """
