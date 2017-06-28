@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# Renyi Hou.  23/6/2017
 题目：
 Given an integer array with even length, where different numbers in this array represent different kinds of candies. 
 Each number means one candy of the corresponding kind. 
