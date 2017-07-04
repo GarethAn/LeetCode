@@ -8,7 +8,7 @@ Given a binary search tree (BST) with duplicates, find all the mode(s)
 对于BST这种数据结构
 有三种遍历算法
 Pre-order(前序遍历）
-In-order（中序遍历）
+In-order（中序遍历） <a href="http://www.baidu.com">hi'Angelo</a>
 Post-order（后序遍历）
 本题对BST采取中序遍历，return的是ascending order list
 最后，算出order list当中频率最多的element(using collections.Counter)
