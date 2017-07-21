@@ -6,7 +6,7 @@
 # a ^ b = 0011 0001
 # bin function in Python: convert int to the binary string
 # bin(5) = '0b101'
-
+# 所以，当xy做了xor运算，count(1)的数量means the number of different bit 
 class Solution(object):
     def hammingDistance(self, x, y):
         """
